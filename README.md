@@ -1,2 +1,2 @@
 # Shortest-Job-First-Algorithm
-Shortest Job First - SJF - Algorithm
+Shortest Job First - SJF - Algorithm using Java
